@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU}{professor.html}
+
+~~~
+{}{img_left}{./images/profile.jpeg}{profile pic}{177px}{236px}{}
+= Byung-Jun Lee \n
+=== Associate Professor, [http://xai.korea.ac.kr/ Department of Artificial Intelligence]\n
+Byung-Jun Lee is currently an associate professor in the Department of Artificial Intelligence at Korea University.
+He is also a part-time applied scientist in [https://gausslabs.ai/ Gauss Labs Inc].
+He obtained Ph.D. degree in Computer Science from KAIST in 2021 with the best thesis award.
+~~~
+
+== Ph.D. thesis
+[https://library.kaist.ac.kr/search/ctlgSearch/thesis/view.do?bibctrlno=956453&se=t0&ty=B&_csrf=16067dca-3a30-46b7-b769-cf0bb8d510fd Algorithms for efficient offline reinforcement learning]
+
+/Byung-Jun Lee, School of Computing, KAIST, 2021. Best Thesis Award in KAIST CS./
+
+Advisor: [http://ailab.kaist.ac.kr/users/kekim Kee-Eung Kim], Graduate School of AI, KAIST
+
+
+== Research overview
+Interested in models and algorithms for data-driven sequential decision making (e.g. Reinforcement Learning), and their applications.
+- Efficient model architecture, learning and representations
+- Effcient algorithms for realistic problem settings (reinforcement/imitation learning for safe, constrained, offline, multi-task decision making in possibly non-stationary environments)
+- Applications to real-world problems (dialog management, manufacturing process automation, power network management, etc.)
+
+== Contact
+Email: byungjunlee@korea.ac.kr

@@ -1,0 +1,50 @@
+# jemdoc: menu{MENU}{publication.html}
+= Papers
+(C: peer-reviewed conference, J: peer-reviewed journal, *=equal contributions)
+
+== \~ 2021
+
+*\[C9\] OptiDICE: Offline Policy Optimization via Stationary Distribution Correction Estimation\n*
+Jongmin Lee\*, Wonseok Jeon\*, Byung-Jun Lee, Joelle Pineau and Kee-Eung Kim\n
+International Conference on Machine Learning (ICML), 2021
+
+*\[C8\] Representation balancing offline model-based reinforcement learning\n*
+Byung-Jun Lee, Jongmin Lee and Kee-Eung Kim\n
+International Conference on Learning Representations (ICLR), 2021
+
+*\[C7\] Winning the L2RPN challenge: power grid management via semi-Markov afterstate actor-critic\n*
+Deunsol Yoon\*, Sunghoon Hong\*, Byung-Jun Lee and Kee-Eung Kim\n
+International Conference on Learning Representations (ICLR), 2021\n
++Spotlight Presentation+
+
+*\[C6\] Reinforcement learning for control with multiple frequencies\n*
+Jongmin Lee, Byung-Jun Lee and Kee-Eung Kim\n
+Annual Conference on Neural Information Processing Systems (NeurlPS), 2020
+
+*\[C5\] Batch reinforcement learning with hyperparameter gradients\n*
+Byung-Jun Lee\*, Jongmin Lee\*, Peter Vrancx, Dongho Kim and Kee-Eung Kim\n
+International Conference on Machine Learning (ICML), 2020
+
+*\[C4\] Residual neural processes\n*
+Byung-Jun Lee, Seunghoon Hong and Kee-Eung Kim\n
+AAAI conference on Artificial Intelligence (AAAI), 2020
+
+*\[J2\] Cross-language neural dialog state tracker for large ontologies using hierarchical attention\n*
+Youngsoo Jang, Jiyeon Ham, Byung-Jun Lee and Kee-Eung Kim\n
+IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), 2018
+
+*\[C3\] Hierarchically-partitioned Gaussian process approximation\n*
+Byung-Jun Lee, Jongmin Lee and Kee-Eung Kim\n
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2017
+
+*\[C2\] Neural dialog state tracker for large ontologies by attention mechanism\n*
+Youngsoo Jang, Jiyeon Ham, Byung-Jun Lee, Youngjae Chang and Kee-Eung Kim\n
+IEEE Spoken Language Technology Workship (SLT), 2016
+
+*\[J1\] Dialog history construction with long-short term memory for robust generative dialog state tracking\n*
+Byung-Jun Lee and Kee-Eung Kim\n
+Dialogue & Discourse (D&D), 2016
+
+*\[C1\] Optimizing generative dialog state tracker via cascading gradient descent\n*
+Byung-Jun Lee, Woosang Lim, Daejoong Kim and Kee-Eung Kim\n
+Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL), 2014
